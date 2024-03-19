@@ -16,7 +16,6 @@
 		D3C2105829FC1E3600DBB6D8 /* FirebaseAnalytics.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3C2104C29FC1E3400DBB6D8 /* FirebaseAnalytics.xcframework */; };
 		D3C2105929FC1E3600DBB6D8 /* FirebaseCoreInternal.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3C2104D29FC1E3400DBB6D8 /* FirebaseCoreInternal.xcframework */; };
 		D3C2105A29FC1E3600DBB6D8 /* FirebaseCoreInternal.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3C2104D29FC1E3400DBB6D8 /* FirebaseCoreInternal.xcframework */; };
-		D3C2105B29FC1E3600DBB6D8 /* FirebaseAnalyticsSwift.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3C2104E29FC1E3400DBB6D8 /* FirebaseAnalyticsSwift.xcframework */; };
 		D3C2105C29FC1E3600DBB6D8 /* FirebaseAnalyticsSwift.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3C2104E29FC1E3400DBB6D8 /* FirebaseAnalyticsSwift.xcframework */; };
 		D3C2105D29FC1E3600DBB6D8 /* FBLPromises.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3C2104F29FC1E3400DBB6D8 /* FBLPromises.xcframework */; };
 		D3C2105E29FC1E3600DBB6D8 /* FBLPromises.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3C2104F29FC1E3400DBB6D8 /* FBLPromises.xcframework */; };
@@ -92,7 +91,6 @@
 			files = (
 				D3C2105D29FC1E3600DBB6D8 /* FBLPromises.xcframework in Frameworks */,
 				D3C2106129FC1E3600DBB6D8 /* mParticle_Apple_SDK.xcframework in Frameworks */,
-				D3C2105B29FC1E3600DBB6D8 /* FirebaseAnalyticsSwift.xcframework in Frameworks */,
 				D3C2106929FC1E3600DBB6D8 /* nanopb.xcframework in Frameworks */,
 				D3C2105F29FC1E3600DBB6D8 /* FirebaseCore.xcframework in Frameworks */,
 				D3C2106329FC1E3600DBB6D8 /* FirebaseInstallations.xcframework in Frameworks */,
